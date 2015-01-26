@@ -1,7 +1,7 @@
 # QuadX_2560happymodel_PIDAutoCHN_V6
 
 # หน้าเวป  http://quad3d-tin.lnwshop.com/product/26/mwc-mega-3-0-flight-control
-[](https://cloud.githubusercontent.com/assets/9403558/5894816/4a87cb90-a541-11e4-862e-fba4ebd9dff9.jpg)
+![](https://cloud.githubusercontent.com/assets/9403558/5894816/4a87cb90-a541-11e4-862e-fba4ebd9dff9.jpg)
 
 /*
 project_QuadX_2560happymodel_PIDAutoCHN_V6
@@ -65,19 +65,19 @@ int MOTOR_BackL_PIN = 6;
 int MOTOR_BackR_PIN = 3;
 
 ----------rx-----------           
-#define THROTTLEPIN                1  //PIN 62 =  PIN A10
+//#define THROTTLEPIN                1  //PIN 62 =  PIN A10
 
-#define ROLLPIN                    2  //PIN 63 =  PIN A8
+//#define ROLLPIN                    2  //PIN 63 =  PIN A8
 
-#define PITCHPIN                   0  //PIN 64 =  PIN A9
+//#define PITCHPIN                   0  //PIN 64 =  PIN A9
 
-#define YAWPIN                     3  //PIN 65 =  PIN A11
+//#define YAWPIN                     3  //PIN 65 =  PIN A11
 
-#define AUX1PIN                    4  //PIN 66 =  PIN A12
+//#define AUX1PIN                    4  //PIN 66 =  PIN A12
 
-#define AUX2PIN                    5  //PIN 67 =  PIN A13
+//#define AUX2PIN                    5  //PIN 67 =  PIN A13
 
-#define AUX3PIN                    6  //PIN 68 =  PIN A14
+//#define AUX3PIN                    6  //PIN 68 =  PIN A14
 
-#define AUX4PIN                    7  //PIN 69 =  PIN A15
+//#define AUX4PIN                    7  //PIN 69 =  PIN A15
 */
